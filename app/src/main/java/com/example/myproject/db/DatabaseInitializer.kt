@@ -17,10 +17,6 @@ class DatabaseInitializer {
         val authorList = mutableListOf<Author>()
         val paintingList = mutableListOf<Painting>()
 
-        val appDatabase = AppDatabase.getInstance(context)
-        val authorDao = appDatabase.authorDao()
-        val paintingDao = appDatabase.paintingDao()
-
         for (i in 0 until jsonArray.length()) {
             val paintingObject = jsonArray.getJSONObject(i)
 
@@ -45,8 +41,11 @@ class DatabaseInitializer {
             paintingList.add(painting)
         }
 
-        authorDao.insertAll(authorList.toList())
-        paintingDao.insertAll(paintingList.toList())
+        val appDatabase = AppDatabase.getInstance(context)
+        appDatabase.runInTransaction {
+            appDatabase.authorDao().insertAll(authorList)
+            appDatabase.paintingDao().insertAll(paintingList)
+        }
     }
 
     private fun loadJSONFromRaw(context: Context, resId: Int): String {
@@ -64,7 +63,6 @@ class DatabaseInitializer {
         } finally {
             inputStream.close()
         }
-
         return writer.toString()
     }
 }
