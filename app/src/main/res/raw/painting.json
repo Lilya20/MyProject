@@ -1,0 +1,1414 @@
+{
+  "paintings": [
+    {
+      "id": 1,
+      "title": "Title1",
+      "year": 1111,
+      "history": "History1",
+      "style": "Style1",
+      "image": "https://www.dropbox.com/s/nd4qbcxcj3dvc65/painting1.jpg?dl=0",
+      "author": {
+        "id": 1,
+        "name": "Author1",
+        "birthYear": 1234,
+        "authorFact": "Fact1"
+      }
+    },
+    {
+      "id": 2,
+      "title": "Title2",
+      "year": 1112,
+      "history": "History2",
+      "style": "Style2",
+      "image": "https://www.dropbox.com/s/3o05gjwg3v5x2zc/painting2.jpg?dl=0",
+      "author": {
+        "id": 2,
+        "name": "Author2",
+        "birthYear": 1235,
+        "authorFact": "Fact2"
+      }
+    },
+    {
+      "id": 3,
+      "title": "Title3",
+      "year": 1113,
+      "history": "History3",
+      "image": "https://www.dropbox.com/s/ud2wgha6chvln22/painting3.jpg?dl=0",
+      "style": "Style3",
+      "author": {
+        "id": 3,
+        "name": "Author3",
+        "birthYear": 1235,
+        "authorFact": "Fact3"
+      }
+    },
+    {
+      "id": 4,
+      "title": "Title4",
+      "year": 1114,
+      "history": "History4",
+      "style": "Style4",
+      "image": "https://www.dropbox.com/s/5py97hcqdmjl0iy/painting4.jpg?dl=0",
+      "author": {
+        "id": 4,
+        "name": "Author4",
+        "birthYear": 1236,
+        "authorFact": "Fact4"
+      }
+    },
+    {
+
+      "id": 5,
+      "title": "Title5",
+      "year": 1115,
+      "history": "History5",
+      "style": "Style5",
+      "image": "https://www.dropbox.com/s/64bsb669o7x67ns/painting5.jpg?dl=0",
+      "author": {
+        "id": 5,
+        "name": "Author5",
+        "birthYear": 1256,
+        "authorFact": "Fact5"
+      }
+    },
+    {
+      "id": 6,
+      "title": "Title6",
+      "year": 1116,
+      "history": "History6",
+      "style": "Style6",
+      "image": "https://www.dropbox.com/s/kqb9wyciiavqtth/painting6.jpg?dl=0",
+      "author": {
+        "id": 6,
+        "name": "Author6",
+        "birthYear": 1237,
+        "authorFact": "Fact6"
+      }
+    },
+    {
+      "id": 7,
+      "title": "Title7",
+      "year": 1117,
+      "history": "History7",
+      "style": "Style7",
+      "image": "https://www.dropbox.com/s/9o6ati096s5w27a/painting7.jpg?dl=0",
+      "author": {
+        "id": 7,
+        "name": "Author7",
+        "birthYear": 1238,
+        "authorFact": "Fact7"
+      }
+    },
+    {
+      "id": 8,
+      "title": "Title8",
+      "year": 1118,
+      "history": "History8",
+      "style": "Style8",
+      "image": "https://www.dropbox.com/s/msbitrrzyak5lud/painting8.jpg?dl=0",
+      "author": {
+        "id": 8,
+        "name": "Author8",
+        "birthYear": 1238,
+        "authorFact": "Fact8"
+      }
+    },
+    {
+      "id": 9,
+      "title": "Title9",
+      "year": 1119,
+      "history": "History9",
+      "style": "Style9",
+      "image": "https://www.dropbox.com/s/nrgfo1x7axeu417/painting9.jpg?dl=0",
+      "author": {
+        "id": 9,
+        "name": "Author9",
+        "birthYear": 1237,
+        "authorFact": "Fact9"
+      }
+    },
+    {
+      "id": 10,
+      "title": "Title10",
+      "year": 2222,
+      "history": "History10",
+      "style": "Style10",
+      "image": "https://www.dropbox.com/s/jb1f6vah7p4pqbs/painting10.jpg?dl=0",
+      "author": {
+        "id": 10,
+        "name": "Author10",
+        "birthYear": 2233,
+        "authorFact": "Fact10"
+      }
+    },
+    {
+      "id": 11,
+      "title": "Title1",
+      "year": 1111,
+      "history": "History1",
+      "style": "Style1",
+      "image": "https://www.dropbox.com/s/9nmwylb9cph8sch/painting11.jpg?dl=0",
+      "author": {
+        "id": 11,
+        "name": "Author1",
+        "birthYear": 1234,
+        "authorFact": "Fact1"
+      }
+    },
+    {
+      "id": 12,
+      "title": "Title2",
+      "year": 1112,
+      "history": "History2",
+      "style": "Style2",
+      "image": "https://www.dropbox.com/s/vkpwyrzgmudnrfh/painting12.jpg?dl=0",
+      "author": {
+        "id": 12,
+        "name": "Author2",
+        "birthYear": 1235,
+        "authorFact": "Fact2"
+      }
+    },
+    {
+      "id": 13,
+      "title": "Title3",
+      "year": 1113,
+      "history": "History3",
+      "style": "Style3",
+      "image": "https://www.dropbox.com/s/4pfs5slkgf6lq2l/painting13.jpg?dl=0",
+      "author": {
+        "id": 13,
+        "name": "Author3",
+        "birthYear": 1235,
+        "authorFact": "Fact3"
+      }
+    },
+    {
+      "id": 14,
+      "title": "Title4",
+      "year": 1114,
+      "history": "History4",
+      "style": "Style4",
+      "image": "https://www.dropbox.com/s/re8ht25jq9s64vx/painting14.jpg?dl=0",
+      "author": {
+        "id": 14,
+        "name": "Author4",
+        "birthYear": 1236,
+        "authorFact": "Fact4"
+      }
+    },
+    {
+
+      "id": 15,
+      "title": "Title5",
+      "year": 1115,
+      "history": "History5",
+      "style": "Style5",
+      "image": "https://www.dropbox.com/s/8hw41ii2ybekm6j/painting15.jpg?dl=0",
+      "author": {
+        "id": 15,
+        "name": "Author5",
+        "birthYear": 1256,
+        "authorFact": "Fact5"
+      }
+    },
+    {
+      "id": 16,
+      "title": "Title6",
+      "year": 1116,
+      "history": "History6",
+      "style": "Style6",
+      "image": "https://www.dropbox.com/s/skxh34xin7ah2bm/painting16.jpg?dl=0",
+      "author": {
+        "id": 16,
+        "name": "Author6",
+        "birthYear": 1237,
+        "authorFact": "Fact6"
+      }
+    },
+    {
+      "id": 17,
+      "title": "Title7",
+      "year": 1117,
+      "history": "History7",
+      "style": "Style7",
+      "image": "https://www.dropbox.com/s/4obqe9ptwo93jfd/painting17.jpg?dl=0",
+      "author": {
+        "id": 17,
+        "name": "Author7",
+        "birthYear": 1238,
+        "authorFact": "Fact7"
+      }
+    },
+    {
+      "id": 18,
+      "title": "Title8",
+      "year": 1118,
+      "history": "History8",
+      "style": "Style8",
+      "image": "https://www.dropbox.com/s/b204f14xgvokqc8/painting18.jpg?dl=0",
+      "author": {
+        "id": 18,
+        "name": "Author8",
+        "birthYear": 1238,
+        "authorFact": "Fact8"
+      }
+    },
+    {
+      "id": 19,
+      "title": "Title9",
+      "year": 1119,
+      "history": "History9",
+      "style": "Style9",
+      "image": "https://www.dropbox.com/s/b86blvgq33ykjpb/painting19.jpg?dl=0",
+      "author": {
+        "id": 19,
+        "name": "Author9",
+        "birthYear": 1237,
+        "authorFact": "Fact9"
+      }
+    },
+    {
+      "id": 20,
+      "title": "Title10",
+      "year": 2222,
+      "history": "History10",
+      "style": "Style10",
+      "image": "https://www.dropbox.com/s/2cerekv82pcnef6/painting20.jpg?dl=0",
+      "author": {
+        "id": 20,
+        "name": "Author10",
+        "birthYear": 2233,
+        "authorFact": "Fact10"
+      }
+    },
+    {
+      "id": 21,
+      "title": "Title1",
+      "year": 1111,
+      "history": "History1",
+      "style": "Style1",
+      "image": "https://www.dropbox.com/s/xmpd4e09lduqgq8/painting21.jpg?dl=0",
+      "author": {
+        "id": 21,
+        "name": "Author1",
+        "birthYear": 1234,
+        "authorFact": "Fact1"
+      }
+    },
+    {
+      "id": 22,
+      "title": "Title2",
+      "year": 1112,
+      "history": "History2",
+      "style": "Style2",
+      "image": "https://www.dropbox.com/s/uq41hz4gp2qsw4a/painting22.jpg?dl=0",
+      "author": {
+        "id": 22,
+        "name": "Author2",
+        "birthYear": 1235,
+        "authorFact": "Fact2"
+      }
+    },
+    {
+      "id": 23,
+      "title": "Title3",
+      "year": 1113,
+      "history": "History3",
+      "style": "Style3",
+      "image": "https://www.dropbox.com/s/g8r7tzrpqb3y84p/painting23.jpg?dl=0",
+      "author": {
+        "id": 23,
+        "name": "Author3",
+        "birthYear": 1235,
+        "authorFact": "Fact3"
+      }
+    },
+    {
+      "id": 24,
+      "title": "Title4",
+      "year": 1114,
+      "history": "History4",
+      "style": "Style4",
+      "image": "https://www.dropbox.com/s/dpdks0fcb1a27tq/painting24.jpg?dl=0",
+      "author": {
+        "id": 24,
+        "name": "Author4",
+        "birthYear": 1236,
+        "authorFact": "Fact4"
+      }
+    },
+    {
+
+      "id": 25,
+      "title": "Title5",
+      "year": 1115,
+      "history": "History5",
+      "style": "Style5",
+      "image": "https://www.dropbox.com/s/isqrmcgbkh5glme/painting25.jpg?dl=0",
+      "author": {
+        "id": 25,
+        "name": "Author5",
+        "birthYear": 1256,
+        "authorFact": "Fact5"
+      }
+    },
+    {
+      "id": 26,
+      "title": "Title6",
+      "year": 1116,
+      "history": "History6",
+      "style": "Style6",
+      "image": "https://www.dropbox.com/s/tfn9wy8laocqc7b/painting26.jpg?dl=0",
+      "author": {
+        "id": 26,
+        "name": "Author6",
+        "birthYear": 1237,
+        "authorFact": "Fact6"
+      }
+    },
+    {
+      "id": 27,
+      "title": "Title7",
+      "year": 1117,
+      "history": "History7",
+      "style": "Style7",
+      "image": "https://www.dropbox.com/s/01676xreg28s570/painting27.jpg?dl=0",
+      "author": {
+        "id": 27,
+        "name": "Author7",
+        "birthYear": 1238,
+        "authorFact": "Fact7"
+      }
+    },
+    {
+      "id": 28,
+      "title": "Title8",
+      "year": 1118,
+      "history": "History8",
+      "style": "Style8",
+      "image": "https://www.dropbox.com/s/ergsaov3tkjp2rr/painting28.jpg?dl=0",
+      "author": {
+        "id": 28,
+        "name": "Author8",
+        "birthYear": 1238,
+        "authorFact": "Fact8"
+      }
+    },
+    {
+      "id": 29,
+      "title": "Title9",
+      "year": 1119,
+      "history": "History9",
+      "style": "Style9",
+      "image": "https://www.dropbox.com/s/x9thlgkmxo361qg/painting29.jpg?dl=0",
+      "author": {
+        "id": 29,
+        "name": "Author9",
+        "birthYear": 1237,
+        "authorFact": "Fact9"
+      }
+    },
+    {
+      "id": 30,
+      "title": "Title10",
+      "year": 2222,
+      "history": "History10",
+      "style": "Style10",
+      "image": "https://www.dropbox.com/s/nm1ajwx8n1t84ny/painting30.jpg?dl=0",
+      "author": {
+        "id": 30,
+        "name": "Author10",
+        "birthYear": 2233,
+        "authorFact": "Fact10"
+      }
+    },
+    {
+      "id": 31,
+      "title": "Title1",
+      "year": 1111,
+      "history": "History1",
+      "style": "Style1",
+      "image": "https://www.dropbox.com/s/4j64h1gkpvoawxc/painting31.jpg?dl=0",
+      "author": {
+        "id": 31,
+        "name": "Author1",
+        "birthYear": 1234,
+        "authorFact": "Fact1"
+      }
+    },
+    {
+      "id": 32,
+      "title": "Title2",
+      "year": 1112,
+      "history": "History2",
+      "image": "https://www.dropbox.com/s/zda3llh1hjvwoev/painting32.jpg?dl=0",
+      "style": "Style2",
+      "author": {
+        "id": 42,
+        "name": "Author2",
+        "birthYear": 1235,
+        "authorFact": "Fact2"
+      }
+    },
+    {
+      "id": 33,
+      "title": "Title3",
+      "year": 1113,
+      "history": "History3",
+      "image": "https://www.dropbox.com/s/71yb16i3g7ckdn9/painting33.jpg?dl=0",
+      "style": "Style3",
+      "author": {
+        "id": 43,
+        "name": "Author3",
+        "birthYear": 1235,
+        "authorFact": "Fact3"
+      }
+    },
+    {
+      "id": 34,
+      "title": "Title4",
+      "year": 1114,
+      "history": "History4",
+      "style": "Style4",
+      "image": "https://www.dropbox.com/s/rf7wkxgxct9mear/painting34.jpg?dl=0",
+      "author": {
+        "id": 34,
+        "name": "Author4",
+        "birthYear": 1236,
+        "authorFact": "Fact4"
+      }
+    },
+    {
+
+      "id": 35,
+      "title": "Title5",
+      "year": 1115,
+      "history": "History5",
+      "style": "Style5",
+      "image": "https://www.dropbox.com/s/trdtucm9ssu17cx/painting35.jpg?dl=0",
+      "author": {
+        "id": 35,
+        "name": "Author5",
+        "birthYear": 1256,
+        "authorFact": "Fact5"
+      }
+    },
+    {
+      "id": 36,
+      "title": "Title6",
+      "year": 1116,
+      "history": "History6",
+      "style": "Style6",
+      "image": "https://www.dropbox.com/s/8vd446jc6gm6uc1/painting36.jpg?dl=0",
+      "author": {
+        "id": 36,
+        "name": "Author6",
+        "birthYear": 1237,
+        "authorFact": "Fact6"
+      }
+    },
+    {
+      "id": 37,
+      "title": "Title7",
+      "year": 1117,
+      "history": "History7",
+      "style": "Style7",
+      "image": "https://www.dropbox.com/s/v02w4bj4n2px5rb/painting37.jpg?dl=0",
+      "author": {
+        "id": 47,
+        "name": "Author7",
+        "birthYear": 1238,
+        "authorFact": "Fact7"
+      }
+    },
+    {
+      "id": 38,
+      "title": "Title8",
+      "year": 1118,
+      "history": "History8",
+      "style": "Style8",
+      "image": "https://www.dropbox.com/s/c3zcg9rf93xr0d2/painting38.jpg?dl=0",
+      "author": {
+        "id": 38,
+        "name": "Author8",
+        "birthYear": 1238,
+        "authorFact": "Fact8"
+      }
+    },
+    {
+      "id": 39,
+      "title": "Title9",
+      "year": 1119,
+      "history": "History9",
+      "style": "Style9",
+      "image": "https://www.dropbox.com/s/8flo5ttto2r5otv/painting39.jpg?dl=0",
+      "author": {
+        "id": 39,
+        "name": "Author9",
+        "birthYear": 1237,
+        "authorFact": "Fact9"
+      }
+    },
+    {
+      "id": 40,
+      "title": "Title10",
+      "year": 2222,
+      "history": "History10",
+      "style": "Style10",
+      "image": "https://www.dropbox.com/s/nxwraquyr7k5nf4/painting40.jpg?dl=0",
+      "author": {
+        "id": 40,
+        "name": "Author10",
+        "birthYear": 2233,
+        "authorFact": "Fact10"
+      }
+    },
+    {
+      "id": 41,
+      "title": "Title1",
+      "year": 1111,
+      "history": "History1",
+      "style": "Style1",
+      "image": "https://www.dropbox.com/s/n4lqxt098jk9yih/painting41.jpg?dl=0",
+      "author": {
+        "id": 41,
+        "name": "Author1",
+        "birthYear": 1234,
+        "authorFact": "Fact1"
+      }
+    },
+    {
+      "id": 42,
+      "title": "Title2",
+      "year": 1112,
+      "history": "History2",
+      "image": "https://www.dropbox.com/s/8slrbz625ipivdf/painting42.jpg?dl=0",
+      "style": "Style2",
+      "author": {
+        "id": 42,
+        "name": "Author2",
+        "birthYear": 1235,
+        "authorFact": "Fact2"
+      }
+    },
+    {
+      "id": 43,
+      "title": "Title3",
+      "year": 1113,
+      "history": "History3",
+      "image": "https://www.dropbox.com/s/3iw9p6fvf4h7tt0/painting43.jpg?dl=0",
+      "style": "Style3",
+      "author": {
+        "id": 43,
+        "name": "Author3",
+        "birthYear": 1235,
+        "authorFact": "Fact3"
+      }
+    },
+    {
+      "id": 44,
+      "title": "Title4",
+      "year": 1114,
+      "history": "History4",
+      "style": "Style4",
+      "image": "https://www.dropbox.com/s/zi5bbp4mxgrpbrj/painting44.jpg?dl=0",
+      "author": {
+        "id": 44,
+        "name": "Author4",
+        "birthYear": 1236,
+        "authorFact": "Fact4"
+      }
+    },
+    {
+
+      "id": 45,
+      "title": "Title5",
+      "year": 1115,
+      "history": "History5",
+      "style": "Style5",
+      "image": "https://www.dropbox.com/s/lfil10si9yt2y9q/painting45.jpg?dl=0",
+      "author": {
+        "id": 45,
+        "name": "Author5",
+        "birthYear": 1256,
+        "authorFact": "Fact5"
+      }
+    },
+    {
+      "id": 46,
+      "title": "Title6",
+      "year": 1116,
+      "history": "History6",
+      "style": "Style6",
+      "image": "https://www.dropbox.com/s/2bdd1dkor1qgmts/painting46.jpg?dl=0",
+      "author": {
+        "id": 46,
+        "name": "Author6",
+        "birthYear": 1237,
+        "authorFact": "Fact6"
+      }
+    },
+    {
+      "id": 47,
+      "title": "Title7",
+      "year": 1117,
+      "history": "History7",
+      "style": "Style7",
+      "image": "https://www.dropbox.com/s/bk16ntwnq0e8iq9/painting47.jpg?dl=0",
+      "author": {
+        "id": 47,
+        "name": "Author7",
+        "birthYear": 1238,
+        "authorFact": "Fact7"
+      }
+    },
+    {
+      "id": 48,
+      "title": "Title8",
+      "year": 1118,
+      "history": "History8",
+      "style": "Style8",
+      "image": "https://www.dropbox.com/s/4ek9tkcoi4y0tey/painting48.jpg?dl=0",
+      "author": {
+        "id": 48,
+        "name": "Author8",
+        "birthYear": 1238,
+        "authorFact": "Fact8"
+      }
+    },
+    {
+      "id": 49,
+      "title": "Title9",
+      "year": 1119,
+      "history": "History9",
+      "style": "Style9",
+      "image": "https://www.dropbox.com/s/2jxelfru7a4vurr/painting49.jpg?dl=0",
+      "author": {
+        "id": 49,
+        "name": "Author9",
+        "birthYear": 1237,
+        "authorFact": "Fact9"
+      }
+    },
+    {
+      "id": 50,
+      "title": "Title10",
+      "year": 2222,
+      "history": "History10",
+      "style": "Style10",
+      "image": "https://www.dropbox.com/s/3i216pn7ouo3384/painting50.jpg?dl=0",
+      "author": {
+        "id": 50,
+        "name": "Author10",
+        "birthYear": 2233,
+        "authorFact": "Fact10"
+      }
+    },
+    {
+      "id": 51,
+      "title": "Title1",
+      "year": 1111,
+      "history": "History1",
+      "style": "Style1",
+      "image": "https://www.dropbox.com/s/d9flh5a2ed7lb05/painting51.jpg?dl=0",
+      "author": {
+        "id": 51,
+        "name": "Author1",
+        "birthYear": 1234,
+        "authorFact": "Fact1"
+      }
+    },
+    {
+      "id": 52,
+      "title": "Title2",
+      "year": 1112,
+      "history": "History2",
+      "style": "Style2",
+      "image": "https://www.dropbox.com/s/b8b4oyt8citoj6j/painting52.jpg?dl=0",
+      "author": {
+        "id": 52,
+        "name": "Author2",
+        "birthYear": 1235,
+        "authorFact": "Fact2"
+      }
+    },
+    {
+      "id": 53,
+      "title": "Title3",
+      "year": 1113,
+      "history": "History3",
+      "style": "Style3",
+      "image": "https://www.dropbox.com/s/4ksttz5xcvk9xbq/painting53.jpg?dl=0",
+      "author": {
+        "id": 53,
+        "name": "Author3",
+        "birthYear": 1235,
+        "authorFact": "Fact3"
+      }
+    },
+    {
+      "id": 54,
+      "title": "Title4",
+      "year": 1114,
+      "history": "History4",
+      "style": "Style4",
+      "image": "https://www.dropbox.com/s/3xfbqueowriagkc/painting54.jpg?dl=0",
+      "author": {
+        "id": 54,
+        "name": "Author4",
+        "birthYear": 1236,
+        "authorFact": "Fact4"
+      }
+    },
+    {
+
+      "id": 55,
+      "title": "Title5",
+      "year": 1115,
+      "history": "History5",
+      "style": "Style5",
+      "image": "https://www.dropbox.com/s/n10bd3stjzwghg5/painting55.jpg?dl=0",
+      "author": {
+        "id": 55,
+        "name": "Author5",
+        "birthYear": 1256,
+        "authorFact": "Fact5"
+      }
+    },
+    {
+      "id": 56,
+      "title": "Title6",
+      "year": 1116,
+      "history": "History6",
+      "style": "Style6",
+      "image": "https://www.dropbox.com/s/ulhdq8yckroccns/painting56.jpg?dl=0",
+      "author": {
+        "id": 56,
+        "name": "Author6",
+        "birthYear": 1237,
+        "authorFact": "Fact6"
+      }
+    },
+    {
+      "id": 57,
+      "title": "Title7",
+      "year": 1117,
+      "history": "History7",
+      "style": "Style7",
+      "image": "https://www.dropbox.com/s/jipercetxdfge3j/painting57.jpg?dl=0",
+      "author": {
+        "id": 57,
+        "name": "Author7",
+        "birthYear": 1238,
+        "authorFact": "Fact7"
+      }
+    },
+    {
+      "id": 58,
+      "title": "Title8",
+      "year": 1118,
+      "history": "History8",
+      "style": "Style8",
+      "image": "https://www.dropbox.com/s/bcjjbout8yabler/painting58.jpg?dl=0",
+      "author": {
+        "id": 58,
+        "name": "Author8",
+        "birthYear": 1238,
+        "authorFact": "Fact8"
+      }
+    },
+    {
+      "id": 59,
+      "title": "Title9",
+      "year": 1119,
+      "history": "History9",
+      "style": "Style9",
+      "image": "https://www.dropbox.com/s/u12t15s1i5trbfy/painting59.jpg?dl=0",
+      "author": {
+        "id": 59,
+        "name": "Author9",
+        "birthYear": 1237,
+        "authorFact": "Fact9"
+      }
+    },
+    {
+      "id": 60,
+      "title": "Title10",
+      "year": 2222,
+      "history": "History10",
+      "style": "Style10",
+      "image": "https://www.dropbox.com/s/y6nbgh6i6fdznbx/painting60.jpg?dl=0",
+      "author": {
+        "id": 60,
+        "name": "Author10",
+        "birthYear": 2233,
+        "authorFact": "Fact10"
+      }
+    },
+    {
+      "id": 61,
+      "title": "Title1",
+      "year": 1111,
+      "history": "History1",
+      "style": "Style1",
+      "image": "https://www.dropbox.com/s/iciv1vr0we1uv60/painting61.jpg?dl=0",
+      "author": {
+        "id": 61,
+        "name": "Author1",
+        "birthYear": 1234,
+        "authorFact": "Fact1"
+      }
+    },
+    {
+      "id": 62,
+      "title": "Title2",
+      "year": 1112,
+      "history": "History2",
+      "style": "Style2",
+      "image": "https://www.dropbox.com/s/vyt5d6rrjswrbgr/painting62.jpg?dl=0",
+      "author": {
+        "id": 62,
+        "name": "Author2",
+        "birthYear": 1235,
+        "authorFact": "Fact2"
+      }
+    },
+    {
+      "id": 63,
+      "title": "Title3",
+      "year": 1113,
+      "history": "History3",
+      "style": "Style3",
+      "image": "https://www.dropbox.com/s/7uyxodw9ml39ei7/painting63.jpg?dl=0",
+      "author": {
+        "id": 63,
+        "name": "Author3",
+        "birthYear": 1235,
+        "authorFact": "Fact3"
+      }
+    },
+    {
+      "id": 64,
+      "title": "Title4",
+      "year": 1114,
+      "history": "History4",
+      "style": "Style4",
+      "image": "https://www.dropbox.com/s/a8mi7x686t2yf7c/painting64.jpg?dl=0",
+      "author": {
+        "id": 64,
+        "name": "Author4",
+        "birthYear": 1236,
+        "authorFact": "Fact4"
+      }
+    },
+    {
+
+      "id": 65,
+      "title": "Title5",
+      "year": 1115,
+      "history": "History5",
+      "style": "Style5",
+      "image": "https://www.dropbox.com/s/4y49woqrczs6f8x/painting65.jpg?dl=0",
+      "author": {
+        "id": 65,
+        "name": "Author5",
+        "birthYear": 1256,
+        "authorFact": "Fact5"
+      }
+    },
+    {
+      "id": 66,
+      "title": "Title6",
+      "year": 1116,
+      "history": "History6",
+      "style": "Style6",
+      "image": "https://www.dropbox.com/s/4duf0lvmrlv0c5d/painting66.jpg?dl=0",
+      "author": {
+        "id": 66,
+        "name": "Author6",
+        "birthYear": 1237,
+        "authorFact": "Fact6"
+      }
+    },
+    {
+      "id": 67,
+      "title": "Title7",
+      "year": 1117,
+      "history": "History7",
+      "style": "Style7",
+      "image": "https://www.dropbox.com/s/te4q242n4on7vrm/painting67.jpg?dl=0",
+      "author": {
+        "id": 67,
+        "name": "Author7",
+        "birthYear": 1238,
+        "authorFact": "Fact7"
+      }
+    },
+    {
+      "id": 68,
+      "title": "Title8",
+      "year": 1118,
+      "history": "History8",
+      "style": "Style8",
+      "image": "https://www.dropbox.com/s/752mx1d34l3eaot/painting68.jpg?dl=0",
+      "author": {
+        "id": 68,
+        "name": "Author8",
+        "birthYear": 1238,
+        "authorFact": "Fact8"
+      }
+    },
+    {
+      "id": 69,
+      "title": "Title9",
+      "year": 1119,
+      "history": "History9",
+      "style": "Style9",
+      "image": "https://www.dropbox.com/s/1eogfo6gwdoeotl/painting69.jpg?dl=0",
+      "author": {
+        "id": 69,
+        "name": "Author9",
+        "birthYear": 1237,
+        "authorFact": "Fact9"
+      }
+    },
+    {
+      "id": 70,
+      "title": "Title10",
+      "year": 2222,
+      "history": "History10",
+      "style": "Style10",
+      "image": "https://www.dropbox.com/s/n3ghdoap7xrcop6/painting70.jpg?dl=0",
+      "author": {
+        "id": 70,
+        "name": "Author10",
+        "birthYear": 2233,
+        "authorFact": "Fact10"
+      }
+    },
+    {
+      "id": 71,
+      "title": "Title1",
+      "year": 1111,
+      "history": "History1",
+      "style": "Style1",
+      "image": "https://www.dropbox.com/s/bm86827t8syd3ou/painting71.jpg?dl=0",
+      "author": {
+        "id": 71,
+        "name": "Author1",
+        "birthYear": 1234,
+        "authorFact": "Fact1"
+      }
+    },
+    {
+      "id": 72,
+      "title": "Title2",
+      "year": 1112,
+      "history": "History2",
+      "style": "Style2",
+      "image": "https://www.dropbox.com/s/gghkfsulhcih04n/painting72.jpg?dl=0",
+      "author": {
+        "id": 72,
+        "name": "Author2",
+        "birthYear": 1235,
+        "authorFact": "Fact2"
+      }
+    },
+    {
+      "id": 73,
+      "title": "Title3",
+      "year": 1113,
+      "history": "History3",
+      "style": "Style3",
+      "image": "https://www.dropbox.com/s/mejiblgqy5bpb5r/painting73.jpg?dl=0",
+      "author": {
+        "id": 73,
+        "name": "Author3",
+        "birthYear": 1235,
+        "authorFact": "Fact3"
+      }
+    },
+    {
+      "id": 74,
+      "title": "Title4",
+      "year": 1114,
+      "history": "History4",
+      "style": "Style4",
+      "image": "https://www.dropbox.com/s/ccvbfmjc7fjtc1j/painting74.jpg?dl=0",
+      "author": {
+        "id": 74,
+        "name": "Author4",
+        "birthYear": 1236,
+        "authorFact": "Fact4"
+      }
+    },
+    {
+
+      "id": 75,
+      "title": "Title5",
+      "year": 1115,
+      "history": "History5",
+      "style": "Style5",
+      "image": "https://www.dropbox.com/s/xp70926nctqcaci/painting75.jpg?dl=0",
+      "author": {
+        "id": 75,
+        "name": "Author5",
+        "birthYear": 1256,
+        "authorFact": "Fact5"
+      }
+    },
+    {
+      "id": 76,
+      "title": "Title6",
+      "year": 1116,
+      "history": "History6",
+      "style": "Style6",
+      "image": "https://www.dropbox.com/s/ejvlhqxh8u5vya9/painting76.jpg?dl=0",
+      "author": {
+        "id": 76,
+        "name": "Author6",
+        "birthYear": 1237,
+        "authorFact": "Fact6"
+      }
+    },
+    {
+      "id": 77,
+      "title": "Title7",
+      "year": 1117,
+      "history": "History7",
+      "style": "Style7",
+      "image": "https://www.dropbox.com/s/k0vck07i0og8fjr/painting77.jpg?dl=0",
+      "author": {
+        "id": 77,
+        "name": "Author7",
+        "birthYear": 1238,
+        "authorFact": "Fact7"
+      }
+    },
+    {
+      "id": 78,
+      "title": "Title8",
+      "year": 1118,
+      "history": "History8",
+      "style": "Style8",
+      "image": "https://www.dropbox.com/s/mc75xm80al59l4u/painting78.jpg?dl=0",
+      "author": {
+        "id": 78,
+        "name": "Author8",
+        "birthYear": 1238,
+        "authorFact": "Fact8"
+      }
+    },
+    {
+      "id": 79,
+      "title": "Title9",
+      "year": 1119,
+      "history": "History9",
+      "style": "Style9",
+      "image": "https://www.dropbox.com/s/lekz8bbr7gx8l7i/painting79.jpg?dl=0",
+      "author": {
+        "id": 79,
+        "name": "Author9",
+        "birthYear": 1237,
+        "authorFact": "Fact9"
+      }
+    },
+    {
+      "id": 80,
+      "title": "Title10",
+      "year": 2222,
+      "history": "History10",
+      "style": "Style10",
+      "image": "https://www.dropbox.com/s/6q2x2zybcbsmuph/painting80.jpg?dl=0",
+      "author": {
+        "id": 80,
+        "name": "Author10",
+        "birthYear": 2233,
+        "authorFact": "Fact10"
+      }
+    },
+    {
+      "id": 81,
+      "title": "Title1",
+      "year": 1111,
+      "history": "History1",
+      "style": "Style1",
+      "image": "https://www.dropbox.com/s/chf9gxr0x7bfpgm/painting81.jpg?dl=0",
+      "author": {
+        "id": 81,
+        "name": "Author1",
+        "birthYear": 1234,
+        "authorFact": "Fact1"
+      }
+    },
+    {
+      "id": 82,
+      "title": "Title2",
+      "year": 1112,
+      "history": "History2",
+      "style": "Style2",
+      "image": "https://www.dropbox.com/s/yzicaaln3va777z/painting82.jpg?dl=0",
+      "author": {
+        "id": 82,
+        "name": "Author2",
+        "birthYear": 1235,
+        "authorFact": "Fact2"
+      }
+    },
+    {
+      "id": 83,
+      "title": "Title3",
+      "year": 1113,
+      "history": "History3",
+      "style": "Style3",
+      "image": "https://www.dropbox.com/s/fhpaf9wfpavg1zr/painting83.jpg?dl=0",
+      "author": {
+        "id": 83,
+        "name": "Author3",
+        "birthYear": 1235,
+        "authorFact": "Fact3"
+      }
+    },
+    {
+      "id": 84,
+      "title": "Title4",
+      "year": 1114,
+      "history": "History4",
+      "style": "Style4",
+      "image": "https://www.dropbox.com/s/t2w2629ul1oqai9/painting84.jpg?dl=0",
+      "author": {
+        "id": 84,
+        "name": "Author4",
+        "birthYear": 1236,
+        "authorFact": "Fact4"
+      }
+    },
+    {
+
+      "id": 85,
+      "title": "Title5",
+      "year": 1115,
+      "history": "History5",
+      "style": "Style5",
+      "image": "https://www.dropbox.com/s/fcakmzbxq1e6161/painting85.jpg?dl=0",
+      "author": {
+        "id": 85,
+        "name": "Author5",
+        "birthYear": 1256,
+        "authorFact": "Fact5"
+      }
+    },
+    {
+      "id": 86,
+      "title": "Title6",
+      "year": 1116,
+      "history": "History6",
+      "style": "Style6",
+      "image": "https://www.dropbox.com/s/dolv5p4jvhy2y0w/painting86.jpg?dl=0",
+      "author": {
+        "id": 86,
+        "name": "Author6",
+        "birthYear": 1237,
+        "authorFact": "Fact6"
+      }
+    },
+    {
+      "id": 87,
+      "title": "Title7",
+      "year": 1117,
+      "history": "History7",
+      "style": "Style7",
+      "image": "https://www.dropbox.com/s/d3oxat362nwaq7s/painting87.jpg?dl=0",
+      "author": {
+        "id": 87,
+        "name": "Author7",
+        "birthYear": 1238,
+        "authorFact": "Fact7"
+      }
+    },
+    {
+      "id": 88,
+      "title": "Title8",
+      "year": 1118,
+      "history": "History8",
+      "style": "Style8",
+      "image": "https://www.dropbox.com/s/fcbcnlvzdq7ppqw/painting88.jpg?dl=0",
+      "author": {
+        "id": 88,
+        "name": "Author8",
+        "birthYear": 1238,
+        "authorFact": "Fact8"
+      }
+    },
+    {
+      "id": 89,
+      "title": "Title9",
+      "year": 1119,
+      "history": "History9",
+      "style": "Style9",
+      "image": "https://www.dropbox.com/s/7oywjg27jvyp4b9/painting89.jpg?dl=0",
+      "author": {
+        "id": 89,
+        "name": "Author9",
+        "birthYear": 1237,
+        "authorFact": "Fact9"
+      }
+    },
+    {
+      "id": 90,
+      "title": "Title10",
+      "year": 2222,
+      "history": "History10",
+      "style": "Style10",
+      "image": "https://www.dropbox.com/s/1aif3digdz5atbi/painting90.jpg?dl=0",
+      "author": {
+        "id": 90,
+        "name": "Author10",
+        "birthYear": 2233,
+        "authorFact": "Fact10"
+      }
+    },
+    {
+      "id": 91,
+      "title": "Title1",
+      "year": 1111,
+      "history": "History1",
+      "style": "Style1",
+      "image": "https://www.dropbox.com/s/a8v2wjvzbbnnheq/painting91.jpg?dl=0",
+      "author": {
+        "id": 91,
+        "name": "Author1",
+        "birthYear": 1234,
+        "authorFact": "Fact1"
+      }
+    },
+    {
+      "id": 92,
+      "title": "Title2",
+      "year": 1112,
+      "history": "History2",
+      "style": "Style2",
+      "image": "https://www.dropbox.com/s/gbu9ulqfjzfnblt/painting92.jpg?dl=0",
+      "author": {
+        "id": 92,
+        "name": "Author2",
+        "birthYear": 1235,
+        "authorFact": "Fact2"
+      }
+    },
+    {
+      "id": 93,
+      "title": "Title3",
+      "year": 1113,
+      "history": "History3",
+      "style": "Style3",
+      "image": "https://www.dropbox.com/s/4wy056hl2d83r1f/painting93.jpg?dl=0",
+      "author": {
+        "id": 93,
+        "name": "Author3",
+        "birthYear": 1235,
+        "authorFact": "Fact3"
+      }
+    },
+    {
+      "id": 94,
+      "title": "Title4",
+      "year": 1114,
+      "history": "History4",
+      "style": "Style4",
+      "image": "https://www.dropbox.com/s/c4i82h4umxb34gm/painting94.jpg?dl=0",
+      "author": {
+        "id": 94,
+        "name": "Author4",
+        "birthYear": 1236,
+        "authorFact": "Fact4"
+      }
+    },
+    {
+
+      "id": 95,
+      "title": "Title5",
+      "year": 1115,
+      "history": "History5",
+      "style": "Style5",
+      "image": "https://www.dropbox.com/s/6u3n4anxtdui1iy/painting95.jpg?dl=0",
+      "author": {
+        "id": 95,
+        "name": "Author5",
+        "birthYear": 1256,
+        "authorFact": "Fact5"
+      }
+    },
+    {
+      "id": 96,
+      "title": "Title6",
+      "year": 1116,
+      "history": "History6",
+      "style": "Style6",
+      "image": "https://www.dropbox.com/s/5owwtazlyy83347/painting96.jpg?dl=0",
+      "author": {
+        "id": 96,
+        "name": "Author6",
+        "birthYear": 1237,
+        "authorFact": "Fact6"
+      }
+    },
+    {
+      "id": 97,
+      "title": "Title7",
+      "year": 1117,
+      "history": "History7",
+      "style": "Style7",
+      "image": "https://www.dropbox.com/s/ri0n9nj1j7l38go/painting97.jpg?dl=0",
+      "author": {
+        "id": 97,
+        "name": "Author7",
+        "birthYear": 1238,
+        "authorFact": "Fact7"
+      }
+    },
+    {
+      "id": 98,
+      "title": "Title8",
+      "year": 1118,
+      "history": "History8",
+      "style": "Style8",
+      "image": "https://www.dropbox.com/s/7u694ucrgmu0opw/painting98.jpg?dl=0",
+      "author": {
+        "id": 98,
+        "name": "Author8",
+        "birthYear": 1238,
+        "authorFact": "Fact8"
+      }
+    },
+    {
+      "id": 99,
+      "title": "Title9",
+      "year": 1119,
+      "history": "History9",
+      "style": "Style9",
+      "image": "https://www.dropbox.com/s/6izbpgmdn4pjf3e/painting99.jpg?dl=0",
+      "author": {
+        "id": 99,
+        "name": "Author9",
+        "birthYear": 1237,
+        "authorFact": "Fact9"
+      }
+    },
+    {
+      "id": 100,
+      "title": "Title10",
+      "year": 2222,
+      "history": "History10",
+      "style": "Style10",
+      "image": "https://www.dropbox.com/s/fs4rf7ya58ymic9/painting100.jpg?dl=0",
+      "author": {
+        "id": 100,
+        "name": "Author10",
+        "birthYear": 2233,
+        "authorFact": "Fact10"
+      }
+    }
+  ]
+}
